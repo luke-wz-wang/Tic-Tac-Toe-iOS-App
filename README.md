@@ -5,11 +5,16 @@ Tic-tac-toe is a game for two players, X and O, who take turns marking the space
 
 The following example game is won by the first player, X:
 
-<img  align = "center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Tic-tac-toe-game-1.svg/958px-Tic-tac-toe-game-1.svg.png" width = 80%>
+<div  align = "center">
+<img   src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Tic-tac-toe-game-1.svg/958px-Tic-tac-toe-game-1.svg.png" width = 80%>
+</div>
+
 
 Game of Tic-tac-toe, won by X
 
+
 Project involves UIGestureRecognizer, UIView animations, CALayer, UIBezierPath, and CABasicAnimation.
+
 
 <div align = "center">
 	 <img src="https://github.com/luke-wz-wang/Post_Img/blob/master/board.png?raw=true" width = 30%>
